@@ -107,12 +107,13 @@ int main(void)
 ## OUTPUT
 
 ## OFF
-![Uploading WhatsApp Image 2025-03-27 at 10.30.27_f2c0409e.jpg…]()
+![WhatsApp Image 2025-03-27 at 10 30 27_51068b19](https://github.com/user-attachments/assets/b6245dbe-9e00-431c-af36-a8bc30b147b8)
 
 
 
 ## ON
-![Uploading WhatsApp Image 2025-03-27 at 10.29.06_4ebce7ac.jpg…]()
+![WhatsApp Image 2025-03-27 at 10 29 06_c696002d](https://github.com/user-attachments/assets/cb3f9d7d-e677-4e59-8ba2-b21d3621e9e6)
+
 
 
 ## Result
